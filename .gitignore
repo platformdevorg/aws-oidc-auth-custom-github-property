@@ -1,0 +1,15 @@
+# JetBrains IDE files
+.idea/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
+crash.log
+crash.*.log
+
+# macOS
+.DS_Store
